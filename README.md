@@ -1,0 +1,2 @@
+# cryptonight-miner
+Cryptonight Miner
