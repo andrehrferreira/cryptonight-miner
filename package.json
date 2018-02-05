@@ -1,0 +1,17 @@
+{
+    "name": "cryptonight-miner",
+    "version": "0.0.1",
+    "description": "Cryptonight Miner",
+    "author": "Andre Ferreira <andrehrf@gmail.com>",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrehrferreira/cryptonight-miner"
+    },
+    "bugs": {
+        "url": "https://github.com/andrehrferreira/cryptonight-miner/issues"
+    },
+    "homepage": "https://github.com/andrehrferreira/cryptonight-miner"
+}
